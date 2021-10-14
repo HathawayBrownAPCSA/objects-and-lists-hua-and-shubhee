@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Genre
+comment1.params=
+comment1.target=Genre()
+comment1.text=\r\n\ The\ constructor\ initializes\ an\ array\ list\ containing\ genres.\r\n\ \r\n
+comment2.params=s
+comment2.target=boolean\ isValidGenre(java.lang.String)
+comment2.text=\r\n\ Checks\ that\ the\ genre\ input\ by\ the\ user\ is\ on\ the\ list\r\n\ \r\n\ @param\ s\ Genre\ input\ by\ user\r\n\ @return\ boolean\ of\ whether\ s\ is\ on\ the\ list\ or\ not\r\n
+comment3.params=
+comment3.target=void\ printGenres()
+comment3.text=\r\n\ Prints\ the\ list\ of\ genres.\r\n
+numComments=4

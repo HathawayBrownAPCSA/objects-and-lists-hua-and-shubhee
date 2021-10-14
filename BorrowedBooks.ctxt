@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=BorrowedBooks
+comment1.params=
+comment1.target=BorrowedBooks()
+comment1.text=\r\n\ Constructor\ initializes\ a\ list\ of\ Books.\r\n
+comment2.params=i
+comment2.target=void\ addBook(Book)
+comment2.text=\r\n\ Adds\ Books\ to\ the\ list\r\n\ @param\ i\ Book\ that\ user\ inputs\ into\ the\ system\r\n
+comment3.params=
+comment3.target=void\ printBorrowedBooks()
+comment3.text=\r\n\ Prints\ the\ list\ of\ borrowed\ books,\ and\ a\ message\ about\ returning\ them\r\n
+comment4.params=a
+comment4.target=boolean\ isAuthor(java.lang.String)
+comment4.text=\r\n\ Verifies\ that\ author\ is\ on\ the\ list\r\n\ @param\ a\ The\ author\ of\ the\ book\r\n
+comment5.params=a
+comment5.target=Book\ getBookOfAuthor(java.lang.String)
+comment5.text=\r\n\ Gets\ the\ book\ written\ by\ the\ author\r\n\ @param\ a\ The\ author\ of\ the\ book\r\n\ @return\ The\ book\ written\ by\ the\ input\ author\r\n
+comment6.params=a
+comment6.target=boolean\ isBook(java.lang.String)
+comment6.text=\r\n\ Verifies\ that\ book\ is\ on\ the\ list\r\n\ @param\ a\ The\ title\ of\ the\ book\r\n
+comment7.params=a
+comment7.target=Book\ getBookOfTitle(java.lang.String)
+comment7.text=\r\n\ Gets\ the\ book\ with\ input\ title\r\n\ @param\ a\ The\ title\ of\ the\ book\r\n\ @return\ The\ book\ with\ the\ input\ title\r\n
+numComments=8

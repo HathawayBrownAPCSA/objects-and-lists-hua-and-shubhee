@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ Books\r\n\r\n\ @author\ Hua\ and\ Shubhee\r\n\ @version\ 20210920\r\n
+comment1.params=t\ a\ g\ num
+comment1.target=Book(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ initializes\ values\ for\ title,\ author,\ page\ count,\ and\ genre\r\n\ Also\ checks\ if\ the\ genre\ is\ on\ the\ list\ of\ genres\ or\ not.\r\n\ \r\n\ @param\ t\ Title\ of\ book\r\n\ @\ param\ a\ Author\ of\ book\r\n\ @param\ num\ Page\ count\ of\ book\ (integer)\r\n\ @param\ g\ Genre\ of\ book\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Returns\ user\ input\ about\ the\ Book\r\n\ \r\n\ @return\ the\ title,\ author,\ and\ genre\ as\ a\ string\r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment3.text=\r\n\ Returns\ title\ of\ Book\r\n\ @return\ title\r\n
+comment4.params=
+comment4.target=java.lang.String\ getAuthor()
+comment4.text=\r\n\ Returns\ author\ of\ Book\r\n\ @return\ author\r\n
+comment5.params=
+comment5.target=java.lang.String\ getGenre()
+comment5.text=\r\n\ Returns\ genre\ of\ Book\r\n\ @return\ genre\r\n
+comment6.params=newGenre
+comment6.target=void\ setGenre(java.lang.String)
+comment6.text=\r\n\ Updates\ genre\r\n\ @param\ newGenre\ The\ new\ genre\ of\ the\ Book\r\n
+numComments=7
